@@ -12,4 +12,5 @@ __future__, random, time, sys, datetime, and binascii should be included in a no
 
 
 In order to get a solid number of words and a good chance at at least one word that is longer than 3 letters, you need to run around 2000 iterations.
+
 On my computer this program ran at approximately 4.6 iterations per second.
