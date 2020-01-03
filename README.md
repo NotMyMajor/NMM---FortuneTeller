@@ -10,7 +10,7 @@ You can do this by running "python -m nltk.downloader popular" in your terminal.
 
 
 This should be the only module you need to download. 
-__future__, random, time, sys, datetime, and binascii should be included in a normal python installation.
+Future, random, time, sys, datetime, and binascii should be included in a normal python installation.
 
 
 In order to get a solid number of words and a good chance at at least one word that is longer than 3 letters, you need to run around 2000 iterations.
