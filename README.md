@@ -13,5 +13,9 @@ This should be the only module you need to download.
 Future, random, time, sys, datetime, and binascii should be included in a normal python installation.
 
 
+When run, the program will ask for how many iterations you want, then how many words you want your fortune to be.
+The iterations will then run and you will be able to observe the progress as well as the number of unique words and words greater than 3 letters. When the iterations are done, the program will display all the words generated and then generate the fortune.
+
 In order to get a solid number of words and a good chance at at least one word that is longer than 3 letters, you need to run around 2000 iterations.
 On my computer, this program ran at approximately 4.6 iterations per second.
+
