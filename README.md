@@ -1,5 +1,5 @@
 # NMM---FortuneTeller
-(Coming Soon)
+# (Coming Soon)
 
 You will need the nltk library to run this program.
 You can download it by running "pip install nltk" with whatever administrative permissions you need for your terminal. 
