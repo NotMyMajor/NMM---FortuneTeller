@@ -19,7 +19,7 @@ The iterations will then run and you will be able to observe the progress as wel
 In order to get a solid number of words and a good chance at at least one word that is longer than 3 letters, you need to run around 2000 iterations.
 On my computer, this program ran at approximately 4.6 iterations per second.
 
-Find NotMyMajor on:
+## Find NotMyMajor on:
 
 YouTube: https://www.youtube.com/channel/UC3AAzOir9-2zWmsJFtfxhcw
 
